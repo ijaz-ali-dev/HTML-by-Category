@@ -1,1 +1,37 @@
 #first tag
+
+
+<!-- here is all basic html tags -->
+
+<!-- !DOCTYPE -->
+<!DOCTYPE >
+
+<!-- html -->
+<html></html>
+
+<!--head-->
+<head></head>
+
+<!--title-->
+<title></title>
+
+<!-- body-->
+<body></body>
+
+<!-- h1 to h6 -->
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+<!-- p -->
+<p></p>
+
+<!-- br -->
+<br />
+<!-- hr -->
+<hr />
+
+<!--comments its self-->
