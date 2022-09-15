@@ -1,0 +1,64 @@
+
+#Forms and Input:
+
+#from tag
+<form action="/action_page.php" method="get">
+</form>
+
+#input tag
+<input type="text" id="fullname" name="ijaz ali">
+
+#textarea
+<textarea id="" name="" rows="4" cols="5">
+</textarea>
+
+#button
+<button type="button">Get more!</button>
+
+#select
+<select name="cars" id="cars">
+ <option value="audi">Audi</option>
+ <option value="audi">Audi</option>
+</select>
+
+#select with optiongroup
+<select name="cars" id="cars">
+  <optgroup label="Swedish Cars">
+    <option value="audi">Audi</option>
+    <option value="audi">Audi</option>
+   </optgroup>
+</select>
+
+#lable
+<label for="html">HTML</label>
+
+#fieldset
+<fieldset>
+  <legend>Personalia:</legend>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br><br>
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday"><br><br>
+  <input type="submit" value="Submit">
+ </fieldset>
+
+
+<form action="/action_page.php">
+
+  <input type="radio" id="html" name="language" value="HTML">
+  <label for="html">HTML</label><br>
+  
+  <input type="radio" id="css" name="language" value="CSS">
+  <label for="css">CSS</label><br>
+  
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label><br><br>
+  
+  <input type="submit" value="Submit">
+</form>
+
+
